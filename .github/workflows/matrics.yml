@@ -21,3 +21,4 @@ jobs:
           plugin_leetcode: yes
           
           leetcode_user: ye-zi-6o
+          leetcode_base_url: https://leetcode.cn
