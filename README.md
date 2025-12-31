@@ -33,3 +33,7 @@
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </div>
+
+## 🐍 My GitHub Contribution
+
+![snake](https://raw.githubusercontent.com/fupingyezi/fupingyezi/output/github-contribution-grid-snake.svg)
