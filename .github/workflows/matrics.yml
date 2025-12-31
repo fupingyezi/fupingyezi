@@ -18,10 +18,6 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
         
-          plugins: leetcode
-
-          config_leetcode: |
-            {
-              "user": "ye-zi-6o",
-              "base_url": "https://leetcode.cn"
-            }
+          plugin_leetcode: yes
+          plugin_leetcode_user: ye-zi-6o
+          plugin_leetcode_sections: solved, skills, recent
