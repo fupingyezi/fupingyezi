@@ -3,6 +3,10 @@
 
 ![Metrics](/github-metrics.svg)
 
+### 📊 LeetCode Statistics
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/ye-zi-6o?site=cn&theme=dark&ext=activity)
+
 ### 🚀 Technology Stack and Tools
 
 

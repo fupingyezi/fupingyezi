@@ -17,7 +17,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-        
-          plugin_leetcode: yes
-          plugin_leetcode_user: ye-zi-6o
-          plugin_leetcode_sections: solved, skills, recent
+
+          # LeetCode 插件已禁用：该插件不支持力扣中国站 (leetcode.cn)
+          # 改用 LeetCode Stats Card 在 README 中展示力扣数据
+          plugin_leetcode: no
