@@ -3,10 +3,6 @@
 
 ![Metrics](/github-metrics.svg)
 
-### 📊 LeetCode Statistics
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/ye-zi-6o?site=cn&theme=dark&ext=activity)
-
 ### 🚀 Technology Stack and Tools
 
 
@@ -37,6 +33,10 @@
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </div>
+
+### 📊 LeetCode Statistics
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/ye-zi-6o?site=cn&theme=dark&ext=activity)
 
 ## 🐍 My GitHub Contribution
 
